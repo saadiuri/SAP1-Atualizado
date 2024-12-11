@@ -16,7 +16,7 @@ O projeto foi disponibilizado pelo professor Cláudio Dias Campos.
 
 ## Melhorias Propostas
 Este projeto é uma implementação do modelo [sap1-turbo](https://github.com/andreeluis/sap1-turbo) do aluno André Luís Silva de Paula com diversas melhorias em suas funcionalidades originais, permitindo a execução de programas mais complexos. As melhorias incluem:
-  Melhorias Implementadas:
+###  Melhorias Implementadas:
     
     Operações matemáticas adicionais
     Divisão: Instrução para realizar a divisão de valores.
@@ -32,8 +32,13 @@ Este projeto é uma implementação do modelo [sap1-turbo](https://github.com/an
     Execução do Cálculo de Fibonacci
     Este SAP-1 aprimorado também foi projetado para executar um programa que calcula a sequência de Fibonacci. O programa de Fibonacci está implementado como um programa em outro SAP independente e utiliza as funcionalidades aprimoradas descritas acima.
 
+## Vídeo Demonstrativo
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=E7O65dpkc50">
+		<img src="https://img.youtube.com/vi/E7O65dpkc50/maxresdefault.jpg" width="500" alt="SAP-1 Atualizado - AC1">
+	</a>
+</p>
     
-
 ## Como Executar
 O sistema utiliza duas ROMs no contador-sequenciador: uma para endereços e outra para o controle. Caso as ROMs não contenham o conteúdo correto, você pode carregá-las a partir de arquivos de texto.
 Arquivos de ROM
