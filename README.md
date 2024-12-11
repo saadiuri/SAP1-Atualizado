@@ -16,8 +16,7 @@ O projeto foi disponibilizado pelo professor Cláudio Dias Campos.
 
 ## Melhorias Propostas
 Este projeto é uma implementação do modelo [sap1-turbo](https://github.com/andreeluis/sap1-turbo) do aluno André Luís Silva de Paula com diversas melhorias em suas funcionalidades originais, permitindo a execução de programas mais complexos. As melhorias incluem:
-###  Melhorias Implementadas:
-    
+
     Operações matemáticas adicionais
     Divisão: Instrução para realizar a divisão de valores.
     Multiplicação: Instrução para multiplicar dois valores.
