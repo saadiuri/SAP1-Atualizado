@@ -14,7 +14,7 @@ O projeto foi disponibilizado pelo professor Cláudio Dias Campos.
 > [!WARNING]
 > Compatibilidade: Este projeto é compatível exclusivamente com o simulador [Logisim](http://www.cburch.com/logisim/). Não é garantido
 
-## Melhoria Proposta
+## Melhorias Propostas
 Este projeto é uma implementação do modelo [sap1-turbo](https://github.com/andreeluis/sap1-turbo) do aluno André Luís Silva de Paula com diversas melhorias em suas funcionalidades originais, permitindo a execução de programas mais complexos. As melhorias incluem:
   Melhorias Implementadas:
     
